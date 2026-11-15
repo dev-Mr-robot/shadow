@@ -1,0 +1,19 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.env
+.env.*
+*.sqlite3*
+*.db
+*.log
+coverage.xml
+.coverage
+htmlcov/
+# Machine-specific diagnostics stay local.
+docs/host-diagnostics.json
+docs/linux-diagnostics.json

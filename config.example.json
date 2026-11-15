@@ -1,0 +1,9 @@
+{
+  "ollama_url": "http://127.0.0.1:11434",
+  "model": "",
+  "embedding_model": "",
+  "context_length": 4096,
+  "request_timeout": 5,
+  "inference_timeout": 180,
+  "active_engagement": null
+}
